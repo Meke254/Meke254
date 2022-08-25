@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Meke254
-- 👀 I’m interested in R and coding in general
-- 🌱 I’m currently learning Ecnomics and Statistics
-- 💞️ I’m looking to collaborate on a few projects to come
+- 👋 Hi, I’m Brian Mark 
+-  I’m interested in R and coding in general
+- I', interested in Python, R and Data Science i general.
+- I’m looking to collaborate on a few projects to come
 
 
 <!---
