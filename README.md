@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Brian Mark 
--  I’m interested in R and coding in general
-- I'm interested in Python, R and Data Science i general.
+- I'm interested in Python, R and Data Science in general.
 - I’m looking to collaborate on a few projects to come
 
 
