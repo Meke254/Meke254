@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Brian Mark (@Meke254)
 
-### 💻 Full Stack Developer | 🎨 UI/UX Enthusiast | 📱 Mobile App Developer
+### 💻 DataScientist | 🎨 UI/UX Enthusiast |
 
 [![GitHub followers](https://img.shields.io/github/followers/Meke254?style=social)](https://github.com/Meke254)
 [![Email](https://img.shields.io/badge/Email-brianmark5017%40gmail.com-red?style=flat&logo=gmail)](mailto:brianmark5017@gmail.com)
