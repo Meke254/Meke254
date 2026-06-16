@@ -13,19 +13,19 @@
 
 ## 🚀 Featured Projects
 
-### 💰 [Pesa Tracker](https://github.com/Meke254/Pesa-Tracker)
+### [Pesa Tracker](https://github.com/Meke254/Pesa-Tracker)
 A beautiful, modern expense tracking app with glassmorphism design
-- 🎨 **Modern UI** with glassmorphism effects and gradients
-- 📊 **Visual Analytics** using interactive charts
-- 🔍 **Smart Search** functionality
-- 🌓 **Theme Support** for light and dark modes
-- 📱 Built with **React Native** & **Expo**
+- Modern UI** with glassmorphism effects and gradients
+- Visual Analytics** using interactive charts
+- Smart Search** functionality
+- Theme Support** for light and dark modes
+- Built with **React Native** & **Expo**
 
 **Tech Stack**: React Native, Expo, Recharts, Linear Gradients, Blur Effects
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Frontend
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
@@ -61,12 +61,12 @@ A beautiful, modern expense tracking app with glassmorphism design
 
 ---
 
-## 💼 What I'm Working On
+## What I'm Working On
 
-- 🔭 Building beautiful mobile applications with React Native
-- 🌱 Learning advanced UI/UX design patterns
-- 👯 Open to collaborate on innovative projects
-- 💡 Exploring glassmorphism and modern design trends
+- Building beautiful mobile applications with React Native
+- Learning advanced UI/UX design patterns
+- Open to collaborate on innovative projects
+- Exploring glassmorphism and modern design trends
 
 ---
 
@@ -97,6 +97,5 @@ A beautiful, modern expense tracking app with glassmorphism design
 
 <div align="center">
 
-**⭐ Star my repos if you find them useful!** | **🤝 Let's build something amazing together!**
 
 </div>
