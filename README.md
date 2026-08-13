@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Brian Mark (@Meke254)
+# 👋 Hi, I'm Brian Mark
 
 ### 💻 DataScientist | 🎨 UI/UX Enthusiast |
 
